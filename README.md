@@ -16,10 +16,10 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
     - E mais ajustavel quando se tem um salto repentino acentuado na demanda, os recursos são expandidos automaticamente ou manualmente, estes valores podem ser pré setados a partir de metas;
 
-    -Confiabilidade-
+*Confiabilidade*
   
   A confiabilidae do sistema ela se baseia em um designe descentralizado, desta forma a nuvem pode ter recursos implantandos em varias partes do mundo,( deve-se olhar as diretrizes de cada região para a aplicação).
 
-   -Previsibilidade-
+   *Previsibilidade*
 
  -Confianção no desempenho ou no custo , ambas são influenciadas pelo Azure Well Architected Framework
