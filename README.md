@@ -21,6 +21,13 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
   
     -A confiabilidae do sistema ela se baseia em um designe descentralizado, desta forma a nuvem pode ter recursos implantandos em varias partes do mundo,( deve-se olhar as diretrizes de cada região para a aplicação).
 
-   *Previsibilidade*
+*Previsibilidade*
 
      -Confianção no desempenho ou no custo , ambas são influenciadas pelo Azure Well Architected Framework
+     
+-Benefícios da numve-
+
+*Governaça*
+
+-          Os dados e informações podem ser auditorados, conforme os padrões corporativos, e fornece estrategias de mitigação
+
