@@ -1,4 +1,4 @@
-# resumo-do-lab
+# Resumo-do-lab
 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
@@ -61,3 +61,9 @@ PaaS
 -  Fornece um ambiete para criação ,teste e a implatação de aplicativos sem focar no gerenciamento da infraestrutura subjacente      
 
  SaaS
+ 
+*Software como serviço*
+
+ - SaAS e Software como serviço, e onde ficam armazenado os softwares,licenças e feito o gerenciamento com as permições;
+ - A Aplicação já e existente;
+ - O que define o que se vê estão relacionados ao licença;
