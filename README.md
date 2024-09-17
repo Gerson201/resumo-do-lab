@@ -50,17 +50,24 @@ Benefícios da nuvem
 *Tipos de serviço de nuvem*
 
  IaaS
+ 
+Serviço de nuvem mais flexivel  (Mais acesso)
 
 *Infra estrutura como serviço* 
 
 -  Tendem a ser sevições que o cliente faz mais configurações. Exemplo Maquina Virtual;   
 
 PaaS
+
+Focado no desenvolvimento de aplitativos (Intermediario)
+
 *Plataforma como serviço*
 
 -  Fornece um ambiete para criação ,teste e a implatação de aplicativos sem focar no gerenciamento da infraestrutura subjacente      
 
  SaaS
+ 
+ Modelo de preço de pagamento conforme o uso; (Menos acesso)
  
 *Software como serviço*
 
