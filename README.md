@@ -34,5 +34,9 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 *Gerenciabilidade*
 
 -          um dos principais beneficios são as opções e capacidade de gerenciar a nuvem e escalar automaticamente a inplatação de recursos com base na necessidades.
-  
+
+  Tempo de inatividade (SLA)
+
+![image](https://github.com/user-attachments/assets/ca3d3fe3-d74b-4aaf-b433-f2ce1cc568d2)
+
   
