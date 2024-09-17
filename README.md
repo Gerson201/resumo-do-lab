@@ -67,3 +67,9 @@ PaaS
  - SaAS e Software como serviço, e onde ficam armazenado os softwares,licenças e feito o gerenciamento com as permições;
  - A Aplicação já e existente;
  - O que define o que se vê estão relacionados ao licença;
+   
+----------------------------------------------------------------------------------
+
+Modelo de Responsabilidade compartilhada
+
+![image](https://github.com/user-attachments/assets/55b2ed85-075f-4a6c-b35a-1d5ca24936c4)
