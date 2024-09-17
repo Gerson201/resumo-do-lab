@@ -25,9 +25,14 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
      -Confianção no desempenho ou no custo , ambas são influenciadas pelo Azure Well Architected Framework
      
--Benefícios da numve-
+-Benefícios da nuvem-
 
 *Governaça*
 
 -          Os dados e informações podem ser auditorados, conforme os padrões corporativos, e fornece estrategias de mitigação
 
+*Gerenciabilidade*
+
+-          um dos principais beneficios são as opções e capacidade de gerenciar a nuvem e escalar automaticamente a inplatação de recursos com base na necessidades.
+  
+  
