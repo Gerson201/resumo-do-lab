@@ -77,6 +77,42 @@ Focado no desenvolvimento de aplitativos (Intermediario)
    
 ----------------------------------------------------------------------------------
 
+
+
+
 Modelo de Responsabilidade compartilhada
 
 ![image](https://github.com/user-attachments/assets/55b2ed85-075f-4a6c-b35a-1d5ca24936c4)
+
+----------------------------------------------------------------------------------
+
+Principais componentes do azure. 
+
+Regiões
+
+Abrangencia Global  em 60 regiões e 160 países.
+
+Pares de regiões
+
+Tem no minimo 300 milhas de separação entre os pares
+Replicação automática para Alguns serviços
+Recuperação de região priorida em caso de interrupção;
+
+Região soberana
+
+Atende as necessidades de segurança e conformidade das agencias federais,governos estaduais e locais e seus provedores de soluções. Existem poucos e EUA e um deles
+esses serviços são operados pela 21vianet na china
+
+----------------------------------------------------------------------------------
+
+Grupo de recursos
+
+São um local para alocar os recursos para que seja possivel acessar e acessar as ferramentas em uma unica unidade.
+
+Uma vez criado o grupo de recursos não e possivel alterar , mais e possivel tirar e colocar recursos 
+----------------------------------------------------------------------------------
+
+Assinaturas.
+
+E se criada uma conta Azure que e tida como a principal, essa deve estar com os dados de faturamento e cartão para cobrança dos valores relativo ao consumo das contas.
+Após a criação dessa conta e possivel subdividir as assinaturas, aonde e possivel ter uma assinatura para o pessoal de Desenvolvimento,pesso de Teste e para as coisas que vão para produção.Porém será dado o gasto de cada assinatura gastou e elas responderão para a assinatura principal.
